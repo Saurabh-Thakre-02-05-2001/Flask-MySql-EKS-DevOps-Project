@@ -13,7 +13,7 @@ A production-style Two-Tier Application Deployment on Amazon EKS, where:
 **📌 Project Architecture**
 
 <p align="center">
-  <img src="images/architecture.png" alt="Flask MySQL EKS Architecture" width="800"/>
+  <img src="static/architecture.png" alt="Flask MySQL EKS Architecture" width="800"/>
 </p>
 
 ```
